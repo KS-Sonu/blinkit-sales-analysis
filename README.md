@@ -27,6 +27,15 @@ The question this project set out to answer:
 ### Product & Category Intelligence
 ![Product Intelligence](dashboard_product_intelligence.png)
 
+## Behind the Analysis
+
+The dashboard tells the story. This is where the story was found.
+
+![Excel Analysis](excel_analysis.gif)
+
+*Raw pivot table analysis in Excel — hypothesis testing, benchmarking, 
+and RCA across 8,523 rows before a single Power BI visual was built.
+
 ---
 
 ## 5 Business Insights
