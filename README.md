@@ -19,13 +19,13 @@ The question this project set out to answer:
 ## Dashboard Preview
 
 ### Overview — Platform KPIs and the hook
-![Overview](screenshots/dashboard_overview.png)
+![Overview](dashboard_overview.png)
 
 ### Outlet Performance Intelligence
-![Outlet Performance](screenshots/dashboard_outlet_performance.png)
+![Outlet Performance](dashboard_outlet_performance.png)
 
 ### Product & Category Intelligence
-![Product Intelligence](screenshots/dashboard_product_intelligence.png)
+![Product Intelligence](dashboard_product_intelligence.png)
 
 ---
 
